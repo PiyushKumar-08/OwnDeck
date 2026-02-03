@@ -53,17 +53,6 @@ OwnDeck is built in alignment with the **United Nations Sustainable Development 
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to run the project locally.
-
-### Prerequisites
-* Flutter SDK installed ([Guide](https://flutter.dev/docs/get-started/install))
-* VS Code or Android Studio
-* An Android Emulator or Physical Device
-
----
-
 ## 📞 Contact
 
 **Developer:** Piyush Kumar
