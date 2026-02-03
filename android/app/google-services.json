@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "788354651482",
+    "project_id": "owndeck-c-p",
+    "storage_bucket": "owndeck-c-p.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788354651482:android:b3dd4071c5fb4244550f63",
+        "android_client_info": {
+          "package_name": "com.example.owndeck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788354651482-ikfn7q6jm0iosvv2qahs766nhdpmssp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.owndeck",
+            "certificate_hash": "cf80e87401e4232643ed83468a873d66335b5d2a"
+          }
+        },
+        {
+          "client_id": "788354651482-im5vr8hg7in4fo70o3trcoeb929bbbof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcOiK8N1IaWXhFAUCaFwhxBgw_jSx37k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788354651482-im5vr8hg7in4fo70o3trcoeb929bbbof.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788354651482-684ft74p9c0foffhus6a8usltetsb2b3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.owndeck"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
