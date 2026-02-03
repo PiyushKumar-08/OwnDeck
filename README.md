@@ -53,11 +53,18 @@ OwnDeck is built in alignment with the **United Nations Sustainable Development 
 
 ---
 
-## 📞 Contact
+## 👥 Team Members
 
-**Developer:** Piyush Kumar
+This project was collaboratively developed by the students of **Dept. of Artificial Intelligence, NIET Greater Noida**.
 
-**Connect:** https://www.linkedin.com/in/piyush-kumar-40074a19a
+| Name | Role / Contribution | Connect |
+| :--- | :--- | :--- |
+| **Piyush Kumar** | Frontend & UI/UX | [LinkedIn](https://www.linkedin.com/in/piyush-kumar-40074a19a/) |
+| **Ankit Keshri** | Database & Testing | [LinkedIn](https://www.linkedin.com/in/ankit-keshri-097395256/) |
+| **Prince Kumar** | Documentation & Research | [LinkedIn](https://www.linkedin.com/in/prince-kumar-a5b723257/) |
+
+---
+**Guided By:** [Mr. Yaduvir Singh]
 
 ---
 *Developed as a Final Year Project for Dept. of Artificial Intelligence.*
